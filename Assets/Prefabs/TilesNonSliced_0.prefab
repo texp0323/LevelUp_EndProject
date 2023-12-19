@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 230335125812059005}
   - component: {fileID: 1836005892861619347}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: TilesNonSliced_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1941370448101321498}
   - component: {fileID: 3478918768823044272}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: TilesNonSliced_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -180,7 +180,7 @@ GameObject:
   - component: {fileID: 5263902364813341053}
   - component: {fileID: 5836720438485707049}
   - component: {fileID: 565505281314223719}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: TilesNonSliced_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
